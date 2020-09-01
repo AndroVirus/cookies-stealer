@@ -57,21 +57,5 @@ now you need to change  : localhost by your hostname in the file background.js
 
 upload the application python in your Cpanel
 
-## contact : 
-
-hakanonymos@hotmail.com
-
-## whatsapp
-
-+1 315 636 6596
-
-## Happy Hacking
-
-## chanel youtube
-
- https://www.youtube.com/channel/UC3-GvoDC1BhxUIJC6tec0lw?view_as=subscriber
-
-
-
 
 
